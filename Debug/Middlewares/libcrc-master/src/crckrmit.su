@@ -1,0 +1,3 @@
+crckrmit.c:51:10:crc_kermit	40	static
+crckrmit.c:84:10:update_crc_kermit	16	static
+crckrmit.c:101:13:init_crc_tab	16	static
